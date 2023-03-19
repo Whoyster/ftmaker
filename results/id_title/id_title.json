@@ -1,0 +1,27 @@
+{
+    "id": "book_id",
+    "meta": {
+        "protagonist": "Eugene Back",
+        "system_prompt": "위와 같이 user 의 정보가 포함되도록 랜덤한 주제로 감동적인 동화책 작성해줘.",
+        "image_system_prompt": "(watercolor , fairy tale style) ",
+        "user_option": "유진이는 3살이고 타요 장난감을 좋아해. 유진이가 좋아할만한 감동적인 동화책 써줘.",
+        "text_api_version" : "gpt-3.5-turbo",
+        "image_api_version" : "image-alpha-001"
+    },
+    "title": "유진이와 숲속의 마법 타요",
+    "title_en" : "Eugene and the Magic Tayo in the Forest",
+    "pages": [
+        {
+            "txt" : "맑은 아침, 유진이는 가족들에게 작별 인사를 하고, 타요 자동차 장난감과 함께 숲으로 떠났어요.",
+            "txt_en" : "On a bright morning, Eugene waved goodbye to his family and ventured into the forest with his Tayo toy car.",
+            "img": "Eugene is happily waving with one hand.",
+            "img_path": "00001.jpg"
+        },
+        {
+            "txt" : "숲속에서 유진이는 꼬리가 얽힌 청개구리를 만났어요. 유진이는 타요 장난감을 이용해 청개구리의 꼬리를 풀어주었어요. ",
+            "txt_en" : "As Eugene walked deeper into the forest, he stumbled upon a little frog with its legs all tangled up.",
+            "img": "Eugene and his Tayo toy car",
+            "img_path": "00001.jpg"
+        }
+    ]
+}
